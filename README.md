@@ -10,5 +10,5 @@ Star Improvement Proposals are versioned by the content of their name. That is, 
 
 Example:
 
-Proposal Name: `Byzantium Upgrades`
-Resulting \*IP Name: `ECIP-17976cab`
+- Proposal Name: `Byzantium Upgrades` 
+- Resulting \*IP Name: `ECIP-17976cab`
