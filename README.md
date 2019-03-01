@@ -1,39 +1,14 @@
-# ECLIPs
+# \*IPs - `star improvement proposals`
 
-Ethereum Classic Labs Improvement Proposals are an open standard for contributors to propose core protocol specifications, client APIs, and contract standards. The motivation of the ECLIPs process is to encourage high quality and competent proposals.
+Star Improvement Proposals are an open standard for contributors to propose changes, additions, on deprecations of core protocol specifications.
 
-## Prerequisites
+The Star is meant to be replaced with the prefix/accronym of the users choice, though the prefix MUST be the same for all participants of the particular protocol specification.
 
-Please review the [ECLIP-1](ECLIPs/ECLIP-1.md) and the [ECLIP Template](ECLIP-template.md). Using these documents as a guide will help you follow the ECLIps standard.
+For example, All forks of the Star Improvement Proposal relating to the bitcoin network MUST be called `BIP`. The differentiator being the location/domain/github organization to which the \*IP belongs.
 
-# Contribute
+Star Improvement Proposals are versioned by the content of their name. That is, in the case of making a proposal, the version identifier of the proposal MUST be derrived by the last 8 characters of the SHA-3 of the proposal name. 
 
-1. Fork _this_ ECLIPs repository.
-2. Add _your_ ECLIP to _your fork_ of the repository in the _/ECLIPs_ directory.
-3. Submit a Pull Request to [https://github.com/etclabscore/ECLIPs](https://github.com/etclabscore/ECLIPs)
+Example:
 
-ECIPs are technical documents that describe suggested changes to the Ethereum Classic protocol. Contributors submitting ECLIPs must follow _this_ ECLIP standard.
-
-Every Pull Request will be reviewed and discussed in a transparent manner by the ECLIP collaborators.
-
-Who are the collaborators?
-- ECLIP author(s)
-- ECLIP editors
-- ETC Labs Core developers
-- everyone else willing to participate.
-
-Discussion?
-
-While discussion on Github is encourage, collaborators may feel free to chat in the _#ECLIPs_ channel on _Discord_.
-
- ![discord](https://i.imgur.com/e7naFC2.png "discord link") https://discord.gg/NgzMPaj 
-
-
-# ECLIP Status
-
-```
-WIP -> DRAFT -> LAST CALL -> ACCEPTED -> FINAL
-       |                     |
-       |-> WITHDRAWN         |-> REJECTED
-```
-
+Proposal Name: `Byzantium Upgrades`
+Resulting \*IP Name: `ECIP-17976cab`
