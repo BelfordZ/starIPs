@@ -22,3 +22,7 @@ To Start using this:
 2. change the name to your network accronym
 3. Create the first {your network accronym}IP to determine the standards and procedures for your StarIP repo.
 4. Take old proposals and move them in with new version hashes
+
+### Contributing
+
+How to contribute, build and release are outlined in [CONTRIBUTING.md](CONTRIBUTING.md), [BUILDING.md](BUILDING.md) and [RELEASING.md](RELEASING.md) respectively. Commits in this repository follow the [CONVENTIONAL_COMMITS.md](CONVENTIONAL_COMMITS.md) specification.
