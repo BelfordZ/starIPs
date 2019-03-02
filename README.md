@@ -1,7 +1,7 @@
 # \*IPs - `star improvement proposals`
 *Written by Zachary Belford & Shane Jonas*
 
-Star Improvement Proposals are an open standard for contributors to propose changes, additions, on deprecations of core protocol specifications.
+Star Improvement Proposals are an open standard for contributors to propose changes, additions, or deprecations of core protocol specifications.
 
 The Star is meant to be replaced with the prefix/accronym of the users choice, though the prefix MUST be the same for all participants of the particular protocol specification.
 
