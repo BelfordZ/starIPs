@@ -20,5 +20,5 @@ Example:
 To Start using this:
 1. Fork it
 2. change the name to your network accronym
-3. Create {your network name}IP to determine the standards and procedures for your StarIP repo.
+3. Create the first {your network accronym}IP to determine the standards and procedures for your StarIP repo.
 4. Take old proposals and move them in with new version hashes
