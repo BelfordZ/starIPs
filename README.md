@@ -1,5 +1,5 @@
 # \*IPs - Star Improvement Proposals
-*Written by Zachary Belford & Shane Jonas*
+*Written by Zachary Belford & Shane Jonas & Donald McIntyre*
 
 Star Improvement Proposals are an open standard for contributors to propose changes, additions, or deprecations of core protocol specifications.
 
