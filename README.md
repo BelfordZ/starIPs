@@ -1,5 +1,5 @@
 # \*IPs - Star Improvement Proposals
-*Written by Zachary Belford & Shane Jonas & Donald McIntyre & *
+*by Zachary Belford, Shane Jonas, Donald McIntyre, Yaz Khoury, Anthony Lusardi, Tomaz Kariz*
 
 Star Improvement Proposals is an extension of the BIP/EIP/ECIP process, with some changes to allow for decentralization of the process. Its fundamental change involves determinism of proposal numbers and content-based versioning. 
 
