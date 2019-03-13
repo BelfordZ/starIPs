@@ -11,7 +11,7 @@ For example, All forks of the Star Improvement Proposal relating to the bitcoin 
 ## Version
 Star Improvement Proposals are versioned by the content of their name. First we create a hash of the preamble, then we use a substring of it to create the version hash.
 
-### Preable hash
+### Preamble hash
 SHA-3-512 of the proposal [preamble](https://github.com/ethereumclassic/ECIPs/blob/master/ECIP-1.sample.md#what-is-an-ecip).
 
 ### Version Hash
