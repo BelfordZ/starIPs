@@ -1,6 +1,8 @@
 # \*IPs - Star Improvement Proposals
 *by Zachary Belford, Shane Jonas, Donald McIntyre, Yaz Khoury, Anthony Lusardi, Tomaz Kariz*
 
+![pristine badge](https://img.shields.io/badge/pristine-%20reference-informational.svg?style=flat?link=http://left&link=http://github.com/etclabscore/pristine)
+
 Star Improvement Proposals are an open standard for contributors to propose changes, additions, or deprecations of core protocol specifications.
 
 The Star is meant to be replaced with the prefix/accronym of the users choice, though the prefix MUST be the same for all participants of the particular protocol specification.
@@ -17,9 +19,9 @@ Example:
 - Resulting \*IP Name: `ECIP-Byzantium-cebf0a05`
 
 
-To Start using this:
-1. Fork it
-2. change the name to your network accronym
+### Start using this
+1. Fork _this_ repository.
+2. Change the name to your network prefix/ accronym.
 3. Create the first {your network accronym}IP to determine the standards and procedures for your StarIP repo.
 4. Take old proposals and move them in with new version hashes
 
