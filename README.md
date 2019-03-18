@@ -35,11 +35,12 @@ Discussions-To: a@b.c
 Status: Draft
 Type: Standards Track
 Created: 2020-05-25
-Replaces: e0c214e23b458ee5efeb53aebe632b70ae2d4ed3c682775e674eef5939f2d2d740c3b0199d40d08bb1b943862b27f0d8977fd43d0cde711d02d3a3b1b9616b8a
-Superseded-By: 799c8bd30186f2dcfd7c8ef67d36a4b9f3c1ff73d3a7d4df4cf1808bde9d4cde3d19f441425782b3d1465757520af51ffa93eccb25f9074dc304226f81ebd96c
+Replaces: 5Vdb6jvjUGERa6UheajWnzRaSuNhW9i1dAyLVgbvXKJipV3H2x61xbcBKLEN2uh8dUb1qLK3Roo4BidhEMYQZyBP
+Superseded-By: 3S2F1oTPmhrQuWNg4BDqJUkbVqHTU4jyhz5TgHicC74YpG5U8WwaEtSEb3cPgJ4efU4T9aFTqDSwPY1uyWq1MD71
 ```
-- Resulting \*IP Name: `ECIP-Byzantium-J5hqNQJP`
-- Resulting Human-Friendly version number: `NQJP`
+- Base-58 Hash: `5Vdb6jvjUGERa6UheajWnzRaSuNhW9i1dAyLVgbvXKJipV3H2x61xbcBKLEN2uh8dUb1qLK3Roo4BidhEMYQZyBP`
+- Resulting \*IP Name: `ECIP-Byzantium-EMYQZyBP`
+- Resulting Human-Friendly version number: `ZyBP`
 
 
 ### Start using this
