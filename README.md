@@ -3,6 +3,8 @@
 
 Star Improvement Proposals is an extension of the BIP/EIP/ECIP process, with some changes to allow for decentralization of the process. Its fundamental change involves determinism of proposal numbers and content-based versioning. 
 
+![pristine badge](https://img.shields.io/badge/pristine-%20reference-informational.svg?style=flat?link=http://left&link=http://github.com/etclabscore/pristine)
+
 The Star is meant to be replaced with the prefix/acronym of the users choice, though the prefix MUST be the same for all participants of the particular protocol specification.
 
 For example, All forks of the Star Improvement Proposal relating to the bitcoin network MUST be called `BIP`. The differentiator being the location/domain/github organization to which the \*IP belongs.
@@ -40,9 +42,9 @@ Superseded-By: 799c8bd30186f2dcfd7c8ef67d36a4b9f3c1ff73d3a7d4df4cf1808bde9d4cde3
 - Resulting Human-Friendly version number: `NQJP`
 
 
-To Start using this:
-1. Fork it
-2. change the name to your network accronym
+### Start using this
+1. Fork _this_ repository.
+2. Change the name to your network prefix/ accronym.
 3. Create the first {your network accronym}IP to determine the standards and procedures for your StarIP repo.
 4. Take old proposals and move them in with new version hashes
 
