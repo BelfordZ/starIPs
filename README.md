@@ -35,11 +35,12 @@ Discussions-To: a@b.c
 Status: Draft
 Type: Standards Track
 Created: 2020-05-25
-Replaces: e0c214e23b458ee5efeb53aebe632b70ae2d4ed3c682775e674eef5939f2d2d740c3b0199d40d08bb1b943862b27f0d8977fd43d0cde711d02d3a3b1b9616b8a
-Superseded-By: 799c8bd30186f2dcfd7c8ef67d36a4b9f3c1ff73d3a7d4df4cf1808bde9d4cde3d19f441425782b3d1465757520af51ffa93eccb25f9074dc304226f81ebd96c
+Replaces: FSEgfyewqYNvTLsCZeKFTv7k7NCjBM6jkWMHp2pCXYnmfwtLKptWMqQreXqMKg3B5KEA4TAcEwZ3doMTkVhjyC5TPpffszJkwhdAqVerCL4RsxBC7mBVY6gyvQeELTcbLYGjm1ndTGHYhPMYGKqAv1wXMdYcDiiKnL5sjyNKBVFgDmh8bHDnpK41NYfT5atxfm5qRPcG6KR6ZEvmrmeb5T9bXEhSEg5pQmRtz4P3RiYMRi8
+Superseded-By: 6em822CkxkjZZW12fN2kc6PhEniwKcptMLgw1gbMGZvtCoRcstrBP6vCFGesqEGp4NcjLQ1CJxA1JDRkJZyoKdp7Qoc2i4aDVAAy9Lm9i7qHYqN2fLWwtvzD6Zprze7hDzqjRHCWQTPhWw4dbr89Fgqdtf59mk1nCQ9UGGRiYQE9ZF8
 ```
-- Resulting \*IP Name: `ECIP-Byzantium-J5hqNQJP`
-- Resulting Human-Friendly version number: `NQJP`
+- Base-58 Hash: `ATMBgrfrx3XMNhG8WSxoayLCAtL8vHxykBSQWozTYh5GfJQ8EaiBR7rZRv2BYz9gQ8Sxn3yMYTd9S9mjVTX2wi4LziRpAixB7zCoqyJKRmPZdCgaY12B2ETs86bijRHunMTogLoQSPGThnMiaowKZLpKF7caBXZEyDZhSWRY4hfsJzmDESwJTMrvj5LXyN`
+- Resulting \*IP Name: `ECIP-Byzantium-rvj5LXyN`
+- Resulting Human-Friendly version number: `LXyN`
 
 
 ### Start using this
